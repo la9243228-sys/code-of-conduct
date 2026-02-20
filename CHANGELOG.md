@@ -1,5 +1,10 @@
 # Django Code of Conduct Documentation Change Log
 
+## 2026-02-20: Merge branch 'django:main' into main
+
+- Create SECURITY.md for security policy and reporting
+
+
 ## 2026-02-17: Update changelog
 
 - Use GitHub /contents/ API to create signed commits
